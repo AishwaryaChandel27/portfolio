@@ -1,4 +1,5 @@
-import React from 'react'
+"use client";
+
 import Nav from "../components/Nav"
 import Hero from "../components/Hero"
 import About from "../components/About"

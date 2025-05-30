@@ -1,4 +1,5 @@
-import React from "react";
+"use client";
+
 import { ArrowDownTrayIcon, EnvelopeIcon } from "@heroicons/react/24/solid";
 
 
