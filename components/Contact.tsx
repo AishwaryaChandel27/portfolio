@@ -1,6 +1,5 @@
-// src/components/Contact.tsx
+"use client";
 
-import React from 'react';
 import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa';
 import { Typewriter } from 'react-simple-typewriter';
 

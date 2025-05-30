@@ -1,5 +1,5 @@
-// src/components/About.tsx
-import React from 'react';
+"use client";
+
 import { Typewriter } from 'react-simple-typewriter';
 
 const About: React.FC = () => {
