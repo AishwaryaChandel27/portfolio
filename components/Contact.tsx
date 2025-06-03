@@ -24,7 +24,7 @@ const Contact: React.FC = () => {
         </p>
 
         <a
-          href="aishwaryachandel794@gmail.com"
+          href="aishwaryachandel27@gmail.com"
           className="bg-green-500 hover:bg-green-600 text-white font-semibold px-8 py-3 rounded-md transition mb-8"
         >
           Say Hello
@@ -48,7 +48,7 @@ const Contact: React.FC = () => {
             <FaGithub />
           </a>
           <a
-            href="aishwaryachandel794@gmail.com"
+            href="aishwaryachandel27@gmail.com"
             className="hover:text-green-800 dark:hover:text-green-200 transition"
           >
             <FaEnvelope />
